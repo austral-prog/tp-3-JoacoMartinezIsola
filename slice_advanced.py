@@ -1,4 +1,8 @@
 def slice_advanced():
+Name = input("Inserte su oracion:")
+    print(Name[4: :2])
+
+slice_advanced()
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
