@@ -1,5 +1,5 @@
 def slice_advanced():
-Name = input("Inserte su oracion:")
+Name = input("")
     print(Name[4: :2])
 
 slice_advanced()
