@@ -6,7 +6,6 @@ def check_vowels():
     print("Contiene o:", "o" in Name.lower())
     print("Contiene u:", "u" in Name.lower())
 
-check_vowels()
     # Código a implementar utilizando input.
 
 
