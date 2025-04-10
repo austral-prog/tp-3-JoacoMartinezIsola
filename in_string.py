@@ -1,10 +1,10 @@
-def check_vowels() 
-name = input("")
-print("Contiene a:", "a" in name.lower())
-print("Contiene e:", "e" in name.lower())
-print("Contiene i:", "i" in name.lower())
-print("Contiene o:", "o" in name.lower())
-print("Contiene u:", "u" in name.lower())
+def check_vowels(): 
+Name = input("")
+print("Contiene a:", "a" in Name.lower())
+print("Contiene e:", "e" in Name.lower())
+print("Contiene i:", "i" in Name.lower())
+print("Contiene o:", "o" in Name.lower())
+print("Contiene u:", "u" in Name.lower())
 
     # Código a implementar utilizando input.
 
